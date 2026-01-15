@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "foodi-site-deplo",
+    "staging": "foodi-site-deplo"
+  },
+  "targets": {},
+  "etags": {}
+}
